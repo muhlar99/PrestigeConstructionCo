@@ -3077,7 +3077,7 @@
 		.wrapper.style3 {
 			background-color: #000;
 			color: #bfbfbf;
-			background-image: url(../../images/bg.jpg);
+			background-image: url(../../images/home2.jpg);
 			background-size: cover;
 			background-attachment: fixed;
 			background-position: center;
@@ -4225,5 +4225,8 @@
 			.grid-style > :nth-child(1n) {
 				width: calc(100% + 2rem);
 			}
+			.mySlides {display:none}
+			.w3-left, .w3-right, .w3-badge {cursor:pointer}
+			.w3-badge {height:30px;width:30px;padding:10}
 
 		}
